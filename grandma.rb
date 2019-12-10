@@ -4,7 +4,7 @@ def speak_to_grandma(phrase)
     elsif phrase == "WHAT DID YOU EAT TODAY?" || "WHAT?"
     puts "NO, NOT SINCE 1938!"
   else 
-    puts
+    puts 
 end 
 
 # Whatever you say to grandma, she should respond with
