@@ -1,4 +1,6 @@
-
+def speak_to_grandma
+  if speak_to_grandma != speak_to_grandma.upcase
+end 
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
