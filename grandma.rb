@@ -1,5 +1,5 @@
 def speak_to_grandma
-  if speak_to_grandma != speak_to_grandma.upcase
+  if 
 end 
 
 # Whatever you say to grandma, she should respond with
