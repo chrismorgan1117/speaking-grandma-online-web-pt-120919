@@ -1,10 +1,5 @@
 def speak_to_grandma
-  if  "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!"
-    elsif "WHAT DID YOU EAT TODAY?" || "WHAT?"
-    puts "NO, NOT SINCE 1938!"
-  else 
-    puts "HUH?! SPEAK UP, SONNY!"
+  
 end 
 
 # Whatever you say to grandma, she should respond with
